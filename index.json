@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "anchormap",
+  "versions": [
+    {
+      "commit": "d73763e0694cd417babbe11cb4c177b7f6886183",
+      "tag": "",
+      "parsed_at": "2026-10-15T15:52:43.616393+00:00"
+    }
+  ]
+}
